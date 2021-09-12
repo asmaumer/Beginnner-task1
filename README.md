@@ -1,4 +1,5 @@
 # Beginnner-task1
-TSF Internship 
-Beginner Level task 1
+
 Simple Linear Regression
+Created the prediction model using simple linear regression where I have predicted the marks of a student based on the number of study hours of that student.
+Data: http://bit.ly/w-data
